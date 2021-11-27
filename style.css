@@ -73,7 +73,7 @@ main {
   cursor: pointer;
 }
 
-.card-body__item__title:active {
+.card-body__item__title:hover {
   color: var(--p-cyan);
 }
 
@@ -131,6 +131,6 @@ main {
   color: var(--n-clear);
 }
 
-.author__reference__link:active {
+.author__reference__link:hover {
   color: var(--p-cyan);
 }
